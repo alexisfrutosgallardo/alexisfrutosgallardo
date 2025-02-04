@@ -12,16 +12,14 @@ Alexis</a></h1>
 
 - 🌱 I’m currently System Analyst.
 
-- 🤝 I’m a beginner data analysis.
+- 🤝 I’m a beginner Data Analysis.
 
-- 🌱 I’m currently learning Power BI <a</a>
+- 🌱 I’m currently learning Power BI.
 
 - 📝 I regularly prepare SDD (Software Design Document)
 
 - 📫 How to reach me **alexisfrutos2012@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
