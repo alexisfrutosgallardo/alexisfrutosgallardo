@@ -18,6 +18,8 @@ Alexis</a></h1>
 
 - 📝 I regularly prepare SDD (Software Design Document)
 
+- 👉 I am fluent in Spanish and Guarani, proficient in Portuguese, and have a B1 level in English.
+
 - 📫 How to reach me **alexisfrutos2012@gmail.com**
 
 <br><br/>
