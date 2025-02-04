@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Alexis</a></h1>
+<h1 align="center">Hi 👋, I'm **Alexis**</h1>
 <h3 align="center">I am a Systems Analyst from Paraguay with more than 3 years of experience in the area and a beginner in Data Analysis.</h3>
 
 <a target="_blank" align="center">
