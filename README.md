@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm <u><b>Alexis</b></u></h1>
 
 <h3 align="center">I am a Systems Analyst from Paraguay with more than 3 years of experience in the area and a beginner in Data Analysis.</h3>
