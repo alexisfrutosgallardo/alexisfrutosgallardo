@@ -40,4 +40,4 @@
 
 <br><br/>
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
+Design by: [Saurabh Chavan](https://github.com/100rabhcsmc)
