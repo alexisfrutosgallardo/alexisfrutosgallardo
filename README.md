@@ -6,17 +6,17 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Veneto S.A</a>
+- 🧑‍💼 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Veneto S.A</a>
 
-- 🌱 I’m currently System Analyst.
+- 🖥️ I’m currently System Analyst.
 
-- 🤝 I’m a beginner Data Analysis.
+- 📊 I’m a beginner Data Analysis.
 
-- 🌱 I’m currently learning Power BI.
+- 🧠 I’m currently learning Power BI.
 
 - 📝 I regularly prepare SDD (Software Design Document)
 
-- 👉 I am fluent in Spanish and Guaraní, proficient in Portuguese, and have a B1 level in English.
+- 🌎 I am fluent in Spanish and Guaraní, proficient in Portuguese, and have a B1 level in English.
 
 - 📫 How to reach me **alexisfrutos2012@gmail.com**
 
